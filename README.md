@@ -114,11 +114,6 @@ Ideal para practicar y demostrar:
 
 **Edel Rocío Poveda Sánchez**  
 Estudiante de PYLATINO  
-Soñadora disciplinada, arquitecta de código y de futuros hermosos 
-
 Este proyecto nace de tu deseo de crecer, de aprender y de convertir ideas en realidades visibles.
 
 ---
-
-> *“Cada línea de código que escribes no solo crea un programa… también reescribe tu destino.”* 
-
