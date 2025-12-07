@@ -1,5 +1,3 @@
-{"id":"59374","variant":"standard","title":"README - Generador de Frases Motivadoras Personalizadas"}
-
 # Generador de Frases Motivadoras Personalizadas
 
 ##  Descripción del proyecto
@@ -112,7 +110,7 @@ Ideal para practicar y demostrar:
 
 ---
 
-## 👩‍💻 Autora
+## Autora
 
 **Edel Rocío Poveda Sánchez**  
 Estudiante de PYLATINO  
@@ -122,5 +120,5 @@ Este proyecto nace de tu deseo de crecer, de aprender y de convertir ideas en re
 
 ---
 
-> *“Cada línea de código que escribes no solo crea un programa… también reescribe tu destino.”* 💫
+> *“Cada línea de código que escribes no solo crea un programa… también reescribe tu destino.”* 
 
